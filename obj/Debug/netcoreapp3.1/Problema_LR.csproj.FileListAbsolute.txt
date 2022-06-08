@@ -1,0 +1,14 @@
+C:\Users\40771\source\repos\Problema_LR\Problema_LR\obj\Debug\netcoreapp3.1\Problema_LR.csproj.AssemblyReference.cache
+C:\Users\40771\source\repos\Problema_LR\Problema_LR\obj\Debug\netcoreapp3.1\Problema_LR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40771\source\repos\Problema_LR\Problema_LR\obj\Debug\netcoreapp3.1\Problema_LR.AssemblyInfoInputs.cache
+C:\Users\40771\source\repos\Problema_LR\Problema_LR\obj\Debug\netcoreapp3.1\Problema_LR.AssemblyInfo.cs
+C:\Users\40771\source\repos\Problema_LR\Problema_LR\obj\Debug\netcoreapp3.1\Problema_LR.csproj.CoreCompileInputs.cache
+C:\Users\40771\source\repos\Problema_LR\Problema_LR\bin\Debug\netcoreapp3.1\Problema_LR.exe
+C:\Users\40771\source\repos\Problema_LR\Problema_LR\bin\Debug\netcoreapp3.1\Problema_LR.deps.json
+C:\Users\40771\source\repos\Problema_LR\Problema_LR\bin\Debug\netcoreapp3.1\Problema_LR.runtimeconfig.json
+C:\Users\40771\source\repos\Problema_LR\Problema_LR\bin\Debug\netcoreapp3.1\Problema_LR.runtimeconfig.dev.json
+C:\Users\40771\source\repos\Problema_LR\Problema_LR\bin\Debug\netcoreapp3.1\Problema_LR.dll
+C:\Users\40771\source\repos\Problema_LR\Problema_LR\bin\Debug\netcoreapp3.1\Problema_LR.pdb
+C:\Users\40771\source\repos\Problema_LR\Problema_LR\obj\Debug\netcoreapp3.1\Problema_LR.dll
+C:\Users\40771\source\repos\Problema_LR\Problema_LR\obj\Debug\netcoreapp3.1\Problema_LR.pdb
+C:\Users\40771\source\repos\Problema_LR\Problema_LR\obj\Debug\netcoreapp3.1\Problema_LR.genruntimeconfig.cache
